@@ -1,5 +1,5 @@
 {
-  "name": "ashallendesign/laravel-exchange-rates",
+  "name": "fsjdg/laravel-exchange-rates",
   "description": "A wrapper package for interacting with the exchangeratesapi.io API.",
   "type": "library",
   "homepage": "https://github.com/ash-jc-allen/laravel-exchange-rates",
@@ -17,7 +17,7 @@
     }
   ],
   "require": {
-    "php": "^8.0",
+    "php": "^7.3|^8.0",
     "nesbot/carbon": "^2.0|^3.0",
     "guzzlehttp/guzzle": "^7.0",
     "illuminate/container": "^8.0|^9.0|^10.0|^11.0",
